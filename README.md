@@ -6,7 +6,7 @@ Web scraping with Python and Javascript
 * Link:
 https://quotes.toscrape.com/
 
-* Img:
+* Sample Picture:
 ![Quotes](https://github.com/user-attachments/assets/d6ca5f99-437e-4746-bafc-0b98a95eeff3)
 
 
