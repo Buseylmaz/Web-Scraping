@@ -1,5 +1,5 @@
 # Web Scraping
-Web scraping with Python and Java Script
+Web scraping with Python and Javascript
 
 ## 1.Site:Quotes to Scrape
 
