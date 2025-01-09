@@ -17,6 +17,15 @@ https://www.bulurum.com/search/spor-salonu/istanbul/  (09.01.2025)
 * Sample Picture:
 ![Buluruz](https://github.com/user-attachments/assets/89f9d0e1-204e-4688-a914-34279d61cecd)
 
+## 3.Site: [Ikea](https://www.ikea.com.tr/)
+
+* Link: 
+https://www.ikea.com.tr/
+
+* Sample Picture:
+![Adsız](https://github.com/user-attachments/assets/d513524b-abb4-4e4f-b769-a636bd25db3c)
+
+
 
 
 
