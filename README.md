@@ -25,6 +25,16 @@ https://www.ikea.com.tr/
 * Sample Picture:
 ![Adsız](https://github.com/user-attachments/assets/d513524b-abb4-4e4f-b769-a636bd25db3c)
 
+## 4.Site: Trendyol
+
+* Link: 
+[(https://www.trendyol.com/elbise-x-c56?)](https://www.trendyol.com/elbise-x-c56?) (12.01.2025)
+
+
+* Sample Picture:
+![a](https://github.com/user-attachments/assets/2aa7bd3f-c049-483c-a1dc-5ef4c7640625)
+
+
 
 
 
