@@ -34,6 +34,15 @@ https://www.ikea.com.tr/
 * Sample Picture:
 ![a](https://github.com/user-attachments/assets/2aa7bd3f-c049-483c-a1dc-5ef4c7640625)
 
+## 5.Site: Rugs Modern Halı
+
+* Link: 
+https://www.rugsmodernhali.com/kategori/tum-kategoriler
+
+
+* Sample Picture:
+![Halı](https://github.com/user-attachments/assets/a50f6bac-0a70-43a3-9e39-5433f98a657b)
+
 
 
 
