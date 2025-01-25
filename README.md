@@ -43,6 +43,16 @@ https://www.rugsmodernhali.com/kategori/tum-kategoriler
 * Sample Picture:
 ![Halı](https://github.com/user-attachments/assets/a50f6bac-0a70-43a3-9e39-5433f98a657b)
 
+## 6.Site: Amazon
+
+* Link: 
+https://www.amazon.com.tr/s?k=laptop&rh=p_72%3A13136589031&dc&qid=1737727916&rnid=13136585031&xpid=CrURpmphqx6Yl&ref=sr_pg_1
+
+
+* Sample Picture:
+![Adsız](https://github.com/user-attachments/assets/871f89eb-0cbc-46ee-8371-1d7e8eea94c8)
+
+
 
 
 
